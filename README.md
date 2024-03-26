@@ -1,4 +1,4 @@
-JavaScript Calculator
+##JavaScript Calculator##
 This is a basic calculator implemented using HTML, CSS, and JavaScript.
 
 
